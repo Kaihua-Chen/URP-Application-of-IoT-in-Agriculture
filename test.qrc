@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="image_Error">
+    <file>错误警告.jpg</file>
+  </qresource>
+</RCC>
