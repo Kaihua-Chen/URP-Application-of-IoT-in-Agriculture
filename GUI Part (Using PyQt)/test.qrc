@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Buttons">
+    <file>太阳.jpg</file>
+    <file>错误警告.jpg</file>
+    <file>下雨.png</file>
+    <file>太阳.png</file>
+  </qresource>
+</RCC>
